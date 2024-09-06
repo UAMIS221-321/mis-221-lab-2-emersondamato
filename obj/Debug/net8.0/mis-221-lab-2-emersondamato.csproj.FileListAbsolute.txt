@@ -1,0 +1,15 @@
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/bin/Debug/net8.0/mis-221-lab-2-emersondamato
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/bin/Debug/net8.0/mis-221-lab-2-emersondamato.deps.json
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/bin/Debug/net8.0/mis-221-lab-2-emersondamato.runtimeconfig.json
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/bin/Debug/net8.0/mis-221-lab-2-emersondamato.dll
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/bin/Debug/net8.0/mis-221-lab-2-emersondamato.pdb
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/obj/Debug/net8.0/mis-221-lab-2-emersondamato.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/obj/Debug/net8.0/mis-221-lab-2-emersondamato.AssemblyInfoInputs.cache
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/obj/Debug/net8.0/mis-221-lab-2-emersondamato.AssemblyInfo.cs
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/obj/Debug/net8.0/mis-221-lab-2-emersondamato.csproj.CoreCompileInputs.cache
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/obj/Debug/net8.0/mis-221-lab-2-emersondamato.sourcelink.json
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/obj/Debug/net8.0/mis-221-lab-2-emersondamato.dll
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/obj/Debug/net8.0/refint/mis-221-lab-2-emersondamato.dll
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/obj/Debug/net8.0/mis-221-lab-2-emersondamato.pdb
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/obj/Debug/net8.0/mis-221-lab-2-emersondamato.genruntimeconfig.cache
+/Users/emersondamato/Desktop/221/labs/mis-221-lab-2-emersondamato/obj/Debug/net8.0/ref/mis-221-lab-2-emersondamato.dll
