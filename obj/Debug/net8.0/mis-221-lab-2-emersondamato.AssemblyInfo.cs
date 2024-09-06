@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mis-221-lab-2-emersondamato")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ec31d928e1b6edade42a44d7120534ec1d8e5b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8f0762fe2f9c8ac09b0db8fdaba89597b41cded")]
 [assembly: System.Reflection.AssemblyProductAttribute("mis-221-lab-2-emersondamato")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mis-221-lab-2-emersondamato")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
